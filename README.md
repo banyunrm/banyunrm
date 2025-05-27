@@ -1,4 +1,4 @@
-<img src="githubphoto1.jpg" alt="GitHub Banner" width="100%"/>
+<img src="githubphoto1.png" alt="GitHub Banner" width="100%"/>
 <h1 align="center">Hi 👋, I'm Banyu Nurmanjaya</h1>
 <h3 align="center">Entry-level Data Scientist with experience in building machine learning models. Proven ability to implement and test algorithms using SQL and Python. Have prior knowledge of programming that helps me generate strategic insights from data models.</h3>
 
