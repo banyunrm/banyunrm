@@ -1,6 +1,6 @@
 <img src="githubphoto1.png" alt="GitHub Banner" width="100%"/>
 <h1 align="left">Hi 👋, I'm Banyu Nurmanjaya</h1>
-<h3 align="left">Entry-level Data Scientist with experience in building machine learning models. Proven ability to implement and test algorithms using SQL and Python. Have prior knowledge of programming that helps me generate strategic insights from data models.</h3>
+<h3 align="left">As a budding Data Scientist, I bring a burning passion for data-driven innovation and a strong foundation in machine learning and deep learning. My journey started from a deep understanding of how data can tell complex stories and uncover hidden opportunities. I have a proven ability in designing, implementing, and testing various algorithms using the power of SQL for efficient data manipulation and Python for sophisticated model development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banyunrm&label=Profile%20views&color=0e75b6&style=flat" alt="banyunrm" /> </p>
 
