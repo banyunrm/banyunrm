@@ -14,7 +14,7 @@ strategic insights from data models.</h3>
 
 - 📫 How to reach me **banyunurmanjaya@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing](https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing)]([https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing](https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing))
+- 📄 Know about my experiences [Let's see my resume!!!](https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
