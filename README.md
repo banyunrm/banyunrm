@@ -17,7 +17,7 @@ Engineering graduate, enabling data-driven insights and effective problem-solvin
 
 - 📄 Know about my experiences [Let's see my resume!!!](https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Love all sports but can't swim 😞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
