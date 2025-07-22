@@ -15,7 +15,7 @@ Engineering graduate, enabling data-driven insights and effective problem-solvin
 
 - 📫 How to reach me **banyunurmanjaya@gmail.com**
 
-- 📄 Know about my experiences [Let's see my resume!!!]([https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing](https://drive.google.com/file/d/17yHtmlHQdWH9F_ABVmyFmB851AHsbHyo/view?usp=sharing))
+- 📄 Know about my experiences [Let's see my resume!!!]([https://drive.google.com/file/d/1fH-ll72QTmxYx7yrUxgiKvJDSpGZLGcD/view?usp=sharing](https://drive.google.com/file/d/17yHtmlHQdWH9F_ABVmyFmB851AHsbHyo/view?usp=sharing)
 
 - ⚡ Fun fact **Love all sports but can't swim 😞**
 
